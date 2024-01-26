@@ -1,0 +1,25 @@
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+Subject: Password reset on 127.0.0.1:8000
+From: webmaster@localhost
+To: obadimejioluwajimi@gmail.com
+Date: Fri, 26 Jan 2024 08:22:54 -0000
+Message-ID: <170625737467.6488.11552283860165641612@DESKTOP-H3SM957>
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+</head>
+<body>
+    <p>You're receiving this email because you requested a password reset for your user account at 127.0.0.1:8000.</p>
+    <p>Please go to the following page and choose a new password:</p>
+    <p><a href=""></a></p>
+    <p>Your username, in case you've forgotten: </p>
+    <p>Thanks for using our site!</p>
+    <p>127.0.0.1:8000 team</p>
+</body>
+</html>
+
+-------------------------------------------------------------------------------
